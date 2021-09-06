@@ -50,3 +50,6 @@ devtools::test()
 ######
 ######
 usethis::use_git()
+#select git tab in environment, use diff and commit to track and add files
+
+usethis::use_github()
