@@ -42,3 +42,11 @@ usethis::use_test("funfun")
 devtools::test()
 
 #check one last time to make sure nothing broke
+
+
+
+
+
+######
+######
+usethis::use_git()
